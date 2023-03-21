@@ -1,7 +1,5 @@
-# Data Analyst Portfolio Project Repository
+# LIANG ZICHEN 梁梓晨
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+北海虽赊，扶摇可接。Although the North Sea is on credit, the support can be picked up.
 
-Please feel free to take these and run with them. Make them your own and find you own insights
 
-I really do hope this is helpful and helps you land that dream job! :D
